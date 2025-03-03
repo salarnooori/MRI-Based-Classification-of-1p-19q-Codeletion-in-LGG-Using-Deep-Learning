@@ -29,18 +29,5 @@ This project aims to classify **1p/19q deletion** status in **low-grade gliomas 
 - TensorFlow / PyTorch
 - NumPy, OpenCV, scikit-learn
 
-## Usage
-```bash
-# Clone repository
-git clone <repo-link>
-cd LGG-1p19q-classification
-
-# Run preprocessing
-python preprocess.py
-
-# Train model
-python train.py
-```
-
 ## License
 MIT License
